@@ -1,5 +1,1 @@
-## Getting Started
-
-```
-Weather
-```
+## Weather
